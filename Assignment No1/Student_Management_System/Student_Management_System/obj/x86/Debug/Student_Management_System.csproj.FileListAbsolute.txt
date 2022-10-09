@@ -1,0 +1,11 @@
+D:\Assignment No1\Student_Management_System\Student_Management_System\bin\Debug\Student_Management_System.exe
+D:\Assignment No1\Student_Management_System\Student_Management_System\bin\Debug\Student_Management_System.pdb
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.csprojResolveAssemblyReference.cache
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.Properties.Resources.resources
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.csproj.GenerateResource.Cache
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.exe
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.pdb
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.frm_Login.resources
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.frm_Add_New_Student.resources
+D:\Assignment No1\Student_Management_System\Student_Management_System\obj\x86\Debug\Student_Management_System.frm_View_Student_List.resources
+D:\Assignment No1\Student_Management_System\Student_Management_System\bin\Debug\Student_Management_System.exe.config
