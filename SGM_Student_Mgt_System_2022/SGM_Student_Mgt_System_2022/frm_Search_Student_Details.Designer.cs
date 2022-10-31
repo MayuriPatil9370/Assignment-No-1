@@ -250,6 +250,7 @@
             this.MinimizeBox = false;
             this.Name = "frm_Search_Student_Details";
             this.Text = "Search Student Details";
+           
             this.ResumeLayout(false);
             this.PerformLayout();
 
