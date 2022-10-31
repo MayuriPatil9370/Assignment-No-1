@@ -1,0 +1,12 @@
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\bin\Debug\SGM_Student_Management_System.exe
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\bin\Debug\SGM_Student_Management_System.pdb
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.frm_Login_Form.resources
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.Properties.Resources.resources
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.csproj.GenerateResource.Cache
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.exe
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.pdb
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.csprojResolveAssemblyReference.cache
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\bin\Debug\SGM_Student_Management_System.exe.config
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.frm_Add_New_Student.resources
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.frm_Search_Student_Details.resources
+D:\C#-Assignment\SGM_Student_Management_System\SGM_Student_Management_System\obj\x86\Debug\SGM_Student_Management_System.frm_View_Student_List.resources
