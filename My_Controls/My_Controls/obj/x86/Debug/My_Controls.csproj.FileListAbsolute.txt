@@ -1,0 +1,9 @@
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.frm_Login.resources
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.Properties.Resources.resources
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.csproj.GenerateResource.Cache
+D:\C#-Assignment\My_Controls\My_Controls\bin\Debug\My_Controls.exe
+D:\C#-Assignment\My_Controls\My_Controls\bin\Debug\My_Controls.pdb
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.exe
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.pdb
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.frm_My_Controls.resources
+D:\C#-Assignment\My_Controls\My_Controls\obj\x86\Debug\My_Controls.csprojResolveAssemblyReference.cache
